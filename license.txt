@@ -1,0 +1,11 @@
+Model Information:
+* title:	Antena Observatorio ALMA
+* source:	https://sketchfab.com/3d-models/antena-observatorio-alma-99138553cd054735a0c4f1ef04a1f903
+* author:	fundacionastromania (https://sketchfab.com/fundacionastromania)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Antena Observatorio ALMA" (https://sketchfab.com/3d-models/antena-observatorio-alma-99138553cd054735a0c4f1ef04a1f903) by fundacionastromania (https://sketchfab.com/fundacionastromania) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
